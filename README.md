@@ -3,7 +3,8 @@
   
 ## Мои навыки:
 
-<img scr="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="100%">
+![Pytest logo](https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png)
+
 
 
 <!---
